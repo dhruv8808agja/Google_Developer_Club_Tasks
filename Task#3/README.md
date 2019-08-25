@@ -1,9 +1,8 @@
-# NodeUploads
+#Purpose
+This webapp lets you upload an image from lcoal-disk and help to enhance the image by giving 3 option to modify
+Brightness, Contrast, Saturation
 
-An example of how to upload images locally with Node.js and Multer.
-
-### Version
-1.0.0
+It uses Camanjs to implement the functionality.
 
 ## Usage
 
@@ -22,17 +21,5 @@ To serve in the browser
 $ npm start
 ```
 
-## App Info
+Check localhost:3000
 
-### Author
-
-Brad Traversy
-[Traversy Media](http://www.traversymedia.com)
-
-### Version
-
-1.0.0
-
-### License
-
-This project is licensed under the MIT License
